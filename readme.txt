@@ -1,0 +1,1 @@
+This is a demo of how a simple site can be quickly built using the jQuery mobile framework. I ranked all of the movies from 2010 nominated for best picture and included a short thought for each of them. This demo uses the alpha 3 version of the jQuery mobile framework.
